@@ -1,0 +1,4 @@
+- service: mysql-56
+  command: /bin/sh -c "echo The capital of California is ${CA_CAPITAL}"
+- service: mysql-56
+  command: /bin/sh -c "echo The capital of Idaho is ${ID_CAPITAL}"
